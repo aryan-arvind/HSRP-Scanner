@@ -1,6 +1,6 @@
-# Neural HSRP Intelligence: Real-Time Vehicle & License Plate Analytics
+# HSRP-Scanner: Real-Time Vehicle & License Plate Analytics
 
-A deep learning-powered system designed for the automated detection, tracking, and recognition of High-Security Registration Plates (HSRP). This project leverages state-of-the-art computer vision models to provide a seamless video analytics experience.
+A professional-grade system designed for the automated detection, tracking, and recognition of High-Security Registration Plates (HSRP). This project provides a robust pipeline for video-based vehicle analytics, optimized for precision and speed.
 
 ## 🚀 Features
 - **Real-Time Vehicle Tracking**: Utilizes YOLOv8 for robust vehicle detection and the SORT (Simple Online and Realtime Tracking) algorithm for persistent ID assignment.
@@ -20,8 +20,8 @@ A deep learning-powered system designed for the automated detection, tracking, a
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/YOUR_USERNAME/Neural-HSRP-Intelligence.git
-   cd Neural-HSRP-Intelligence
+   git clone https://github.com/aryan-arvind/HSRP-Scanner.git
+   cd HSRP-Scanner
    ```
 
 2. **Set up a virtual environment**:
