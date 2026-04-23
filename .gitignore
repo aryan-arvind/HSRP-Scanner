@@ -1,0 +1,32 @@
+# Virtual Environments
+.venv/
+venv/
+myenv/
+ENV/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Data & Models
+models/*.pt
+!models/license_plate_detector.pt
+train/
+test/
+valid/
+data.yaml
+
+# Large Media Files
+*.mp4
+*.avi
+*.mov
+
+# Output files
+*.csv
+*.png
+*.jpg
+
+# IDE settings
+.vscode/
+.idea/
